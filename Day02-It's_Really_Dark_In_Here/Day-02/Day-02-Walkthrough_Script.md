@@ -11,19 +11,16 @@ Sure, here are the edited paragraphs for a younger audience and converted into G
 
 | Paragraph | Script | Notes |
 |-----------|--------|-------|
-| 1 | Today, we're diving deeper into the fascinating world of coding with our HERO board. | Show sketch with line 1 at the top.|
-| 2 | We are going to explore a new program, which is a bit like the Blink sketch we saw on Day 1. This time, we've made it even cooler by controlling an extra light, and we've added notes to help you understand the Arduino C++ language better. | |
-| 3 | Let's begin with something basic but important in our program, the "comments". These are like little notes that help explain what the different parts of the code do. | |
-| 4 | Comments can be just one line or many lines long. We'll start by looking at the longer comments at the start of our Day 2 sketch. | |
-| 5 | To start a long comment, we use special symbols: a slash and an asterisk right next to each other. You will see this at the start of our sketch. | Highlight /* on first line.|
-| 6 | The computer ignores everything from the start symbol until it finds the end symbol, which is an asterisk followed by a slash. This can be found anywhere in our sketch, even many lines away from the start symbol. | Highlight ending */ sequence. |
-| 7 | It's a good idea to put these start and end symbols on different lines, even though the computer can find them even if they are in the middle of a line. | |
-| 8 | To make it easy to read, each line of our comments starts with an asterisk. This just makes it look nice and is not necessary. | Highlight column of asterisks between start and end symbols.|
-| 9 | Our first block of long comments introduces the sketch. We will do this in all our lessons to make it easy to find things. | |
-| 10 | To make reading easier, the Arduino IDE lets you hide long comments after you read them. You'll see a special "down pointer" where the long comment starts, which lets you hide the comment with a click. | Show how to collapse comment block by clicking after line number. |
-| 11 | When you hide a comment, it shows three periods at the end of the line that is still shown to tell you there is hidden text. To see the hidden text again, just click in the same spot. Isn't that cool? | Highlight "..." at end of remaining line then re-expand.|
-| 12 | Let's hide the first comment as we move to the next block of comments in this sketch. | Collapse first comment. |
-| 13 | The next section has lots of important information about what we'll learn in this sketch. You can come back to these comments anytime. For now, we'll hide this section to move forward. | Collapse second comment.|
+| 1 | One of the most important things that accelerates your code learning... is taking notes. | Show sketch with line 1 at the top.|
+| 2 | You can make comments inside your sketch. Take this one. It's a lot like Blink, with an extra light, but... I made a few notes to help me remember what does which.  | |
+| 3 | Comments come in two flavors, but let's just talk about long comments. A long comment starts with this combo. | Highlight /* on first line.|
+| 4 | Slash-Asterisk tells the compiler to ignore whatever comes next, until it hits the end-comment marker: Asterisk-Slash. | Highlight ending */ sequence. |
+| 5 | It's a good idea to put these start and end symbols on different lines: helps make the code easier to read. | |
+| 6 | THESE asterisks aren't needed, but again, it helps with readability. | Highlight column of asterisks between start and end symbols.|
+| 7 | Oh hey, see this "down pointer"?. That's a collapser. Works great for long comments, AND blocks of code. | Show how to collapse comment block by clicking after line number. |
+| 8 | This tells you there is hidden text. Click to show again. Isn't that cool? | Highlight "..." at end of remaining line then re-expand.|
+| 9 | Comments are for people. They don't go to the board, but they hold important 'behind the scenes' info for when you start writing the sequel. | Collapse first comment. |
+
 
 ## Section 2
 
